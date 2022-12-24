@@ -2,11 +2,11 @@ name: GitPullPlugin
 version: '${project.version}'
 main: net.hsa12.gitpullplugin.GitPullPlugin
 api-version: 1.19
-authors: [ hsa12net ]
-description: git pull datapack "hsa12com".
+authors: [ HsaSheep ]
+description: git pull datapack "hscom".
 website: hsa12.net
 #---
 commands:
   pull:
-    description: git pull datapack "hsa12com".
+    description: git pull datapack "hscom".
     usage: '/ : pull datapack.'

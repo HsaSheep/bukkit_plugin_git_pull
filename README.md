@@ -1,10 +1,6 @@
 # GitPullPlugin
 GitPullPlugin - A plugin to Git pull data packs with in-game commands. 
 
-# Minecraft Version
-* 1.19~
-* [Test: Paper-1.19.3 on Ubuntu]
-
 # Note
 
 > After adding this plugin, configuration and server restart are required.

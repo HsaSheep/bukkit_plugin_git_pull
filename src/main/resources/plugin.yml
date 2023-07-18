@@ -1,7 +1,7 @@
 name: GitPullPlugin
 version: '${project.version}'
 main: net.hsa12.gitpullplugin.GitPullPlugin
-api-version: 1.19
+api-version: 1.20
 authors: [ HsaSheep ]
 description: git pull datapack "hscom".
 website: hsa12.net
